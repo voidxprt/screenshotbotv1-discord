@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg?logo=python)](https://www.python.org/)
 [![Discord.py](https://img.shields.io/badge/discord.py-2.3+-5865F2.svg?logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/<your-username>/discord-screenshot-bot?style=social)](https://github.com/<your-username>/discord-screenshot-bot/stargazers)
 
 > A sleek Python-powered Discord bot that generates **clean, realistic screenshots** of messages.  
 > No more messy cropping — just copy, reply, and capture. ⚡  
@@ -95,17 +94,17 @@ python bot.py
 
 ## 🎨 Fonts
 
-This bot uses **custom Whitney-style fonts** that I created and licensed.
-They are legally shareable and included in the `fonts/` directory.
+This bot uses **Whitney fonts** 
+Non-licenced
 
-> ⚠️ These are **not Discord’s proprietary fonts** — they are original, licensed versions.
+> ⚠️ These are **Discord’s proprietary fonts** — they are not original, licensed versions.
 
 ---
 
 ## 🖼️ Example
 
-> *(Add screenshots here after running the bot — light & dark mode examples work great!)*
-
+<img width="800" height="138" alt="image" src="https://github.com/user-attachments/assets/7e043aed-9e8e-4233-8c72-2357752baf52" />
+<img width="800" height="138" alt="image" src="https://github.com/user-attachments/assets/d434ba2b-24e2-48e5-bb69-105f46c75c72" />
 ---
 
 ## 🛠️ Notes
